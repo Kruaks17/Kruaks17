@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aksel.kj@hotmail.com**
 
-- 📄 Know about my experiences [BA i Grafisk design og årsstudium i front-end utvikling](BA i Grafisk design og årsstudium i front-end utvikling)
+- 📄 Know about my experiences (BA i Grafisk design og årsstudium i front-end utvikling)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruaks17&show_icons=true&locale=en&layout=compact" alt="kruaks17" /></p>
 
