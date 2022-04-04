@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruaks17&label=Profile%20views&color=0e75b6&style=flat" alt="kruaks17" /> </p>
 
-- 🔭 I’m currently working on **Min egen nettside**
+- 🔭 I’m currently working on ** A website **
 
-- 🌱 I’m currently learning **Next.js & Sanity.io**
+- 🌱 I’m currently learning **Next.js & Firebase**
 
 - 👨‍💻 All of my projects are available at [https://akselkruse-jensen.com/](https://akselkruse-jensen.com/)
 
